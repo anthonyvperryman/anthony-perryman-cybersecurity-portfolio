@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Anthony Perryman Cybersecurity Portfolio Banner" width="100%">
+  <img src="banner_dark.png" alt="Anthony Perryman Cybersecurity Portfolio Banner" width="100%">
 </p>
 
 # 🟦 Anthony Perryman – Cybersecurity Portfolio  
