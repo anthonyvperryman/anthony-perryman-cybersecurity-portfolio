@@ -92,24 +92,6 @@ Each project below reflects realistic, entry-level to intermediate analyst work 
 
 📁 **Screenshots:** `/assets/log-*.png`
 
----
-
-# 🟦 Optional / In-Progress Projects
-
-These can be added to the repo at any time:
-
-### 🔸 Threat Intelligence Report – Phishing Campaign Analysis  
-- IOC profiles  
-- Behavioral indicators  
-- TTP mapping  
-
-### 🔸 Purple Team Simulation – Breach & Attack Testing  
-- Attack emulation  
-- Detection gap analysis  
-- Response validation  
-
----
-
 # 🟦 Skills Demonstrated in These Projects
 
 ### 🧩 Security Operations  
