@@ -66,7 +66,7 @@ Each project below reflects realistic, entry-level to intermediate analyst work 
 - Determined escalation criteria  
 - Applied MITRE technique mapping  
 
-📁 **Screenshots:** `/assets/alert-*.png`
+📁 **Screenshots:** `assets/alert-tree-dark.png`
 
 ---
 
