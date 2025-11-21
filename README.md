@@ -127,7 +127,7 @@ This demonstrates not just tool familiarity but *analytical mindset*, *structure
 
 # 🟦 Contact
 
-📩 **Email:** (Add email here)  
+📩 **Email:** anthonyvperryman@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/anthony-perryman-968239392/  
 
 *Open to SOC Analyst, Security Analyst, Cybersecurity Support, and Blue Team roles.*
